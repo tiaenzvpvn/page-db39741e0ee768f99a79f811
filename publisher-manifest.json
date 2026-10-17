@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "440afcce09538ef772c553af",
+  "owner": "tiaenzvpvn",
+  "repo": "page-db39741e0ee768f99a79f811",
+  "title": "003456",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "db39741e0ee768f99a79f811",
+      "a": "003456",
+      "b": "",
+      "entity": "003456",
+      "brand": "003456",
+      "separator": "",
+      "path": "index.html",
+      "hash": "96e002c06c892042fc09c8a8b4faa300e5ded3e1bf1644300c72d35de4fcddde",
+      "content": {
+        "keyword1": "003456",
+        "keyword2": "",
+        "primary_entity": "003456",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "003456 提供从基础到团队级的网络中继方案。三档套餐，覆盖个人流媒体解锁至企业级路由定制，以稳定链路与克制工程逻辑为前提。你需要的，是一个值得长期使用的接入点。",
+          "AI_DESCRIPTION": "003456 提供从基础到团队级的网络中继方案。三档套餐，覆盖个人流媒体解锁至企业级路由定制，以稳定链路与克制工程逻辑为前提。你需要的，是一个值得长期使用的接入点。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#2C2018;--bg-soft:#3A2B20;--ink:#F4F1EC;--ink-dim:#A89B8E;--accent:#B7E4C7;--line:#4A382C;--highlight:#E8F5E9}\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:var(--bg);color:var(--ink);font-family:Georgia,'Times New Roman',serif;line-height:1.7}\nbody{padding:24px;max-width:1200px;margin:0 auto}\na{color:var(--accent);text-decoration:none;border-bottom:1px solid var(--accent)}\na:hover{background:var(--accent);color:var(--bg)}\n/* Nav */\n.breadcrumb{font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-dim);border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:40px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}\n.breadcrumb nav{display:flex;gap:18px;flex-wrap:wrap}\n.breadcrumb a{border:none}\n.toc{font-size:12px}\n.toc span{color:var(--ink-dim);margin-right:8px}\n/* Hero Magazine Grid */\n.hero{display:grid;grid-template-columns:repeat(12,1fr);gap:24px;padding:32px 0 56px;border-bottom:2px solid var(--line)}\n.hero .masthead{grid-column:1/9;border-bottom:1px solid var(--ink);padding-bottom:12px}\n.hero .masthead small{display:block;font-size:11px;letter-spacing:0.2em;text-transform:uppercase;color:var(--ink-dim);margin-bottom:8px}\n.hero .masthead h1{font-size:clamp(48px,8vw,96px);line-height:0.95;letter-spacing:-0.02em;font-weight:400}\n.hero .issue{grid-column:9/13;text-align:right;font-size:12px;color:var(--ink-dim);border-left:1px solid var(--line);padding-left:16px}\n.hero .lede{grid-column:1/7;font-size:18px;line-height:1.6;margin-top:24px}\n.hero .lede p{margin-bottom:16px}\n.hero .pullquote{grid-column:8/13;margin-top:24px;border-left:3px solid var(--accent);padding:8px 0 8px 20px}\n.hero .pullquote blockquote{font-size:22px;font-style:italic;line-height:1.4}\n.hero .pullquote cite{display:block;margin-top:12px;font-size:12px;color:var(--ink-dim);font-style:normal}\n.hero .meta-row{grid-column:1/13;display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:32px;border-top:1px solid var(--line);padding-top:24px}\n.hero .meta-row div small{display:block;font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-dim)}\n.hero .meta-row div strong{font-size:28px;font-weight:400;color:var(--accent)}\n/* Section general */\nsection{padding:56px 0;border-bottom:1px solid var(--line)}\nsection h2{font-size:36px;font-weight:400;margin-bottom:8px;letter-spacing:-0.01em}\nsection .kicker{font-size:11px;letter-spacing:0.2em;text-transform:uppercase;color:var(--accent);margin-bottom:16px;display:block}\nsection p{margin-bottom:16px;max-width:70ch}\n/* Cards with big numbers */\n.cards{display:grid;grid-template-columns:repeat(2,1fr);gap:32px;margin-top:32px}\n.card{position:relative;padding:24px;border:1px solid var(--line);background:var(--bg-soft);min-height:180px}\n.card .num{position:absolute;bottom:-12px;right:16px;font-size:96px;color:var(--line);font-weight:400;line-height:1;z-index:0}\n.card h3{position:relative;z-index:1;font-size:20px;font-weight:400;margin-bottom:12px}\n.card p{position:relative;z-index:1;font-size:14px;color:var(--ink-dim);max-width:none;margin:0}\n/* Plans stacked */\n.plan{border:1px solid var(--line);padding:32px;margin-bottom:24px;background:var(--bg-soft);position:relative;display:grid;grid-template-columns:1fr 1fr;gap:32px}\n.plan.featured{border:2px solid var(--accent)}\n.plan .badge{position:absolute;top:-12px;left:24px;background:var(--accent);color:var(--bg);padding:4px 12px;font-size:11px;letter-spacing:0.1em;text-transform:uppercase}\n.plan h3{font-size:28px;font-weight:400;margin-bottom:8px}\n.plan .price{font-size:32px;color:var(--accent)}\n.plan .annual{font-size:13px;color:var(--ink-dim);margin-top:4px}\n.plan ul{list-style:none;position:relative}\n.plan ul li{padding:8px 0;border-bottom:1px dotted var(--line);font-size:14px}\n.plan ul li:last-child{border-bottom:none}\n/* FAQ */\n.faq{max-width:800px;margin:0 auto}\n.faq details{border-bottom:1px solid var(--line);padding:20px 0}\n.faq summary{cursor:pointer;font-size:18px;font-weight:400;padding:4px 0;list-style:none;display:flex;justify-content:space-between;align-items:baseline}\n.faq summary::-webkit-details-marker{display:none}\n.faq summary::after{content:'+';color:var(--accent);font-size:22px;transition:transform 0.2s}\n.faq details[open] summary::after{transform:rotate(45deg)}\n.faq .answer{padding:16px 0 0;color:var(--ink-dim);font-size:15px;max-width:65ch}\n/* Footer */\nfooter{padding:56px 0 32px;font-size:12px;color:var(--ink-dim);text-align:center}\nfooter p{margin:8px 0}\n@media(max-width:768px){\n  body{padding:16px}\n  .hero{gap:16px;padding:16px 0 32px}\n  .hero .masthead,.hero .issue,.hero .lede,.hero .pullquote{grid-column:1/13}\n  .hero .meta-row{grid-template-columns:repeat(2,1fr)}\n  .cards{grid-template-columns:1fr}\n  .plan{grid-template-columns:1fr;padding:24px}\n  .card .num{font-size:72px}\n}\n</style><header class=\"breadcrumb\">\n  <nav>\n    <span>003456 / 服务概览</span>\n  </nav>\n  <div class=\"toc\">\n    <span>目录</span>\n    <a href=\"#principles\">原则</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#how\">使用</a>\n    <a href=\"#faq\">常见问题</a>\n  </div>\n</header>\n\n<main>\n<section class=\"hero\">\n  <div class=\"masthead\">\n    <small>003456 · 第 1498 期 · 网络中继服务</small>\n    <h1>003456 · 连接，<br>只是开始。</h1>\n  </div>\n  <div class=\"issue\">\n    <p>本期主题：<br>从一条线路到<br>一套完整的接入逻辑</p>\n  </div>\n  <article class=\"lede\">\n    <p>大多数加速服务把“连通”当作终点。我们认为，连通只是入场券。真正决定日常体验的，是带宽的稳定性、流媒体解锁的彻底程度，以及当你在深夜遇到卡顿时，是否有人接电话。</p>\n    <p>003456 提供三档方案，从每月 100GB 的个人轻度使用，到 1000GB 的团队级共享。没有花哨的承诺，只有一套经过工程化设计的链路分配体系。</p>\n  </article>\n  <aside class=\"pullquote\">\n    <blockquote>\"好的网络服务应该是透明的——你感觉不到它的存在，但它一直在工作。\"</blockquote>\n    —— 003456 工程笔记\n  </aside>\n  <div class=\"meta-row\">\n    <div><small>套餐层级</small><strong>3</strong></div>\n    <div><small>入门月费</small><strong>¥15</strong></div>\n    <div><small>最高设备</small><strong>20</strong></div>\n    <div><small>年付折扣</small><strong>约 17%</strong></div>\n  </div>\n</section>\n\n<section id=\"principles\">\n  <span class=\"kicker\">设计原则</span>\n  <h2>四个前提，支撑一个结论</h2>\n  <p>我们不喜欢用形容词堆砌服务价值。下面是 003456 运作时遵循的底层逻辑，以及它们如何影响你每天打开客户端后的体验。</p>\n  <div class=\"cards\">\n    <article class=\"card\">\n      <span class=\"num\">01</span>\n      <h3>链路优先，而非节点数量</h3>\n      <p>我们不追求节点地图上的红点密度。一个经过带宽测试和路由优化的节点，比十个拥挤的备用节点更值得付费。</p>\n    </article>\n    <article class=\"card\">\n      <span class=\"num\">02</span>\n      <h3>流量不偷跑</h3>\n      <p>套餐标注的 GB 数即为可用上限，不含连接握手、DNS 解析等隐性消耗。月度用量在客户端面板透明可见。</p>\n    </article>\n    <article class=\"card\">\n      <span class=\"num\">03</span>\n      <h3>流媒体解锁做透</h3>\n      <p>旗舰版及以上采用原生 IP 节点，而非 DNS 层劫持。解锁状态由真实区域 IP 决定，不依赖第三方插件。</p>\n    </article>\n    <article class=\"card\">\n      <span class=\"num\">04</span>\n      <h3>工单有人接</h3>\n      <p>团队版配有专属客户经理，旗舰版享有优先队列。基础版的工单响应同样在 24 小时内，不会石沉大海。</p>\n    </article>\n  </div>\n</section>\n\n<section id=\"plans\">\n  <span class=\"kicker\">套餐与价格</span>\n  <h2>三档方案，逐级递进</h2>\n  <p>从个人轻度使用到团队共享，每档套餐的流量、设备数和节点权限都有明确区分。年付享约两个月折扣。选择哪一档，取决于你每月真正消耗多少带宽，以及有多少设备需要同时在线。</p>\n\n  <div class=\"plan\">\n    <div>\n      <h3>基础版</h3>\n      <div class=\"price\">¥15/月</div>\n      <div class=\"annual\">按年付仅需 ¥150/年</div>\n      <p>适合单人日常浏览、轻度流媒体观看。普通线路节点池覆盖主流区域。</p>\n    </div>\n    <ul>\n      <li>每月 100GB 极速流量</li>\n      <li>支持 3 台设备同时在线</li>\n      <li>解锁基础流媒体</li>\n      <li>普通线路节点池</li>\n    </ul>\n  </div>\n\n  <div class=\"plan featured\">\n    <span class=\"badge\">推荐</span>\n    <div>\n      <h3>旗舰版</h3>\n      <div class=\"price\">¥35/月</div>\n      <div class=\"annual\">按年付仅需 ¥350/年</div>\n      <p>面向高频流媒体用户和游戏玩家。原生 IP 全节点解锁，IPLC 专线降低延迟。</p>\n    </div>\n    <ul>\n      <li>每月 300GB 极速流量</li>\n      <li>支持 5 台设备同时在线</li>\n      <li>全节点原生流媒体解锁</li>\n      <li>IPLC 专线游戏加速优化</li>\n      <li>7x24 优先工单支持</li>\n    </ul>\n  </div>\n\n  <div class=\"plan\">\n    <div>\n      <h3>团队版</h3>\n      <div class=\"price\">¥85/月</div>\n      <div class=\"annual\">按年付仅需 ¥850/年</div>\n      <p>为小型团队或重度用户设计。高带宽专属节点与企业级路由定制能力。</p>\n    </div>\n    <ul>\n      <li>每月 1000GB 极速流量</li>\n      <li>支持 20 台设备同时在线</li>\n      <li>VIP 专属高带宽节点</li>\n      <li>支持企业定制路由</li>\n      <li>专属客户经理服务</li>\n    </ul>\n  </div>\n</section>\n\n<section id=\"how\">\n  <span class=\"kicker\">使用说明</span>\n  <h2>从订阅到连接，四步</h2>\n  <p>003456 不依赖专有客户端封闭生态。我们提供标准订阅地址，兼容主流第三方客户端。以下是完整的接入流程。</p>\n  <div class=\"cards\">\n    <article class=\"card\">\n      <span class=\"num\">01</span>\n      <div>\n        <h3>选择套餐并完成订阅</h3>\n        <p>选定基础版、旗舰版或团队版。订阅成功后，系统自动生成一条专属订阅地址，发送至你的注册邮箱。</p>\n      </div>\n    </article>\n    <article class=\"card\">\n      <span class=\"num\">02</span>\n      <div>\n        <h3>导入订阅地址至客户端</h3>\n        <p>将订阅地址粘贴进你所使用的客户端的\"订阅管理\"或\"服务器导入\"栏目。客户端会自动拉取节点列表并按区域分类。</p>\n      </div>\n    </article>\n    <article class=\"card\">\n      <span class=\"num\">03</span>\n      <div>\n        <h3>选择节点并建立连接</h3>\n        <p>根据使用场景选择节点。流媒体优先选原生 IP 节点，游戏加速选 IPLC 专线。点击连接，客户端显示连通后即可使用。</p>\n      </div>\n    </article>\n    <article class=\"card\">\n      <span class=\"num\">04</span>\n      <div>\n        <h3>监控用量与续费</h3>\n        <p>客户端面板实时显示本月已用流量与剩余配额。套餐到期前 7 天会收到邮件提醒，可按月或按年续费，历史节点配置保留。</p>\n      </div>\n    </article>\n  </div>\n</section>\n\n<section id=\"faq\">\n  <span class=\"kicker\">常见问题</span>\n  <h2>你可能想问的</h2>\n  <p>下面是订阅前和订阅后最常被问到的问题。如果你的疑问不在此列，可直接提交工单，基础版 24 小时内回复，旗舰版及以上享有优先处理。</p>\n  <div class=\"faq\">\n    <details>\n      <summary>套餐流量用完后会怎样？</summary>\n      <div class=\"answer\">当月流量耗尽后，连接会自动暂停，不会产生额外扣费。你可以选择等待次月自动重置，或在用户面板中购买流量加包。加包流量当月有效，不会累积到下月。</div>\n    </details>\n    <details>\n      <summary>可以中途升级或降级套餐吗？</summary>\n      <div class=\"answer\">支持随时升级，差价按剩余天数折算，补缴后立即生效，流量额度同步提升至新套餐标准。降级需在当前套餐周期结束后生效，期间仍按原套餐权益使用。</div>\n    </details>\n    <details>\n      <summary>三台设备同时在线，是怎么计算的？</summary>\n      <div class=\"answer\">同一订阅地址在任意时刻建立的有效连接数即为在线设备数。断开后释放名额。不同平台（手机、电脑、平板）共用同一配额，不按设备类型区分。</div>\n    </details>\n    <details>\n      <summary>旗舰版的游戏加速和普通节点有什么不同？</summary>\n      <div class=\"answer\">旗舰版包含 IPLC 专线节点，这类节点通过国际专线直连，不经过公共互联网出口，延迟更稳定，丢包率更低。适合对实时性敏感的在线游戏和语音通话场景。</div>\n    </details>\n    <details>\n      <summary>年付折扣是否会影响退款政策？</summary>\n      <div class=\"answer\">年付订阅支持 7 天内无理由退款（按已使用天数扣除费用后退还剩余）。超过 7 天后，如遇服务不可用且确属我方原因，按未使用月份比例退款。</div>\n    </details>\n    <details>\n      <summary>团队版的企业定制路由具体指什么？</summary>\n      <div class=\"answer\">团队版用户可提交特定目标地址或应用的路由优化需求，由工程团队在节点侧配置分流规则。例如将某办公系统固定路由至指定出口节点。定制需求需评估可行性，一般 3-5 个工作日完成部署。</div>\n    </details>\n  </div>\n</section>\n</main>\n\n<footer>\n  <p>003456 · 网络中继与加速服务</p>\n  <p>本页面内容基于已公开的套餐信息编写。具体权益以订阅时用户面板展示为准。</p>\n  <p>遇到问题请通过客户端内工单系统提交。</p>\n</footer>",
+          "hash": "69c918b442958c9a44105f6362fd438303f04e22a61432c4459880e68b147097",
+          "seo": {
+            "title": "003456 — 连接，只是开始 | 网络中继与加速服务",
+            "keywords": "003456,网络加速,中继服务,流媒体,专线,IPLC,节点",
+            "description": "003456 提供从基础到团队级的网络中继方案。三档套餐，覆盖个人流媒体解锁至企业级路由定制，以稳定链路与克制工程逻辑为前提。你需要的，是一个值得长期使用的接入点。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "1498",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "9 深棕配薄荷",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jnflj.cn",
+    "host": "p-dcca514400.jnflj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1005ba68810877969d0adcd84782ec473dbffb57fde1168f7e8a44dd5a25ae29",
+    "sitemap.xml": "5007465d1b09ce70e46d7cc032c95e0fffa13c4821dbbfdf1aec5892b174b182",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "29a6768224f2c1c113fff10b7dc0d994129ebd1b47de40ab77c8549ab9d797f4",
+    "robots.txt": "28aba155ebf54ab9eb665616dd13b15a5bd8f05543269825c450fd28389a7203",
+    "8d4513bf5b7b9d14fb6b11615697e0a4.txt": "c2131c898459fc6e37dbc74b524582a129441891a1dd1e1b14dfe956d8cf4c50"
+  },
+  "revision": "cddd9f7631436ba8020cd0eca292435f833bacf16e8f2582818072cd81d5e6d0"
+}
